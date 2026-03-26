@@ -82,5 +82,9 @@
     {
       "title": "Slack",
       "imageSrc": "skills/slack.png"
+    },
+    {
+      "title": "Webflow",
+      "imageSrc": "skills/webflow.png"
     }
   ]

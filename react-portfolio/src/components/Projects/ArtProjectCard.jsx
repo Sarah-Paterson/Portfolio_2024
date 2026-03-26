@@ -16,7 +16,7 @@ export const ArtProjectCard = ({ project : { title, imageSrc, description, skill
             })}
         </ul>
         <div className={styles.links}>
-            <a className={styles.link} href={source}>Source</a>
+            <a className={styles.link} href={source}>See More</a>
         </div>
     </div>
 };

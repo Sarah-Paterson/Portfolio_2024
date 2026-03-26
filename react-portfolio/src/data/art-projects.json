@@ -9,7 +9,7 @@
     {
       "title": "The Great Unknown",
       "imageSrc": "projects/art-turtle.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a project made with ink on illustration board",
       "skills": ["Ink", "Illustration Board"],
       "source": "https://www.behance.net/gallery/24118789/The-Great-Unknown"
     },
@@ -17,6 +17,13 @@
       "title": "Whitefish, MT",
       "imageSrc": "projects/art-ski-mountain-chair.png",
       "description": "This is a custom painted chiar made for a client who often skis Whitefish, MT.",
+      "skills": ["Oil-Based Paint"],
+      "source": "https://photos.app.goo.gl/kfn9jqcjcEwsmyy28"
+    },
+    {
+      "title": "Desert Mountain Bench",
+      "imageSrc": "projects/art-ski-chair-bench.png",
+      "description": "This is a custom painted bench made for a client for custom blue mountains desert scene with black and white cacti.",
       "skills": ["Oil-Based Paint"],
       "source": "https://photos.app.goo.gl/kfn9jqcjcEwsmyy28"
     }

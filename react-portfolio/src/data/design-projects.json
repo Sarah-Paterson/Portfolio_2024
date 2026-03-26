@@ -10,14 +10,21 @@
       "title": "Zog Package",
       "imageSrc": "projects/design-zog.png",
       "description": "This is a project made to create packaging for the unique Zog figure.",
-      "skills": ["Adobe Illustrator"],
+      "skills": ["Adobe Illustrator", "package fabrication", "conseptual sketches"],
       "source": "https://www.behance.net/gallery/36010933/ZOG"
     },
     {
       "title": "No Bad Days",
       "imageSrc": "projects/design-no-bad-days.png",
       "description": "This is a project for the promotion of a local bicycle shop.",
-      "skills": ["Adobe Illustrator"],
+      "skills": ["Adobe Illustrator", "conseptual sketches"],
       "source": "https://www.behance.net/gallery/128447753/No-Bad-Days"
+    },
+    {
+      "title": "The Pastel Yeti Emotes",
+      "imageSrc": "projects/design-Yeti-Drink.png",
+      "description": "This is a project for the twitch streamer, ThePastelYeti. These are the emotes used on their channel and throughout Twitch.",
+      "skills": ["Adobe Illustrator", "conseptual sketches"],
+      "source": "https://www.behance.net/gallery/246436705/The-Pastel-Yeti-Emote-Concept-to-Creation"
     }
   ]

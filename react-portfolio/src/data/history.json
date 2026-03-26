@@ -1,12 +1,22 @@
 [
     {
+      "role": "Account Manager / Web Developer",
+      "organisation": "Superior Ink Printing",
+      "startDate": "June 2024",
+      "endDate": "February 2026",
+      "experiences": [
+        "As an account manager, I worked directly with customers to help them make custom apparel and promotional decisions, and I also created client invoices and instructions for production", 
+        "As a web developer, I worked within Webflow to rebuild the comapny website and make edits as needed"],
+      "imageSrc": "history/superior-ink.png"
+    },
+    {
       "role": "Fine Artist - Painter",
       "organisation": "Colorado Ski Chairs",
       "startDate": "August 2022",
-      "endDate": "Present",
+      "endDate": "June 2024",
       "experiences": [
-        "I paint on a variety of materials including recycled skis, recycled snowboards, recycled barn wood, and other materials", 
-        "I work for clients to paint a design or landscape on their new furniture or wall art - many individual clients as well as bigger clients like Denver International Airport"],
+        "I painted on a variety of materials including recycled skis, recycled snowboards, recycled barn wood, and other materials", 
+        "I worked for clients to paint a design or landscape on their new furniture or wall art - many individual clients as well as bigger clients like Denver International Airport"],
       "imageSrc": "history/colorado-ski-chairs.png"
     },
     {
