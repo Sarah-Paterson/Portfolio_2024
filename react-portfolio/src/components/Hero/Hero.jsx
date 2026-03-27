@@ -12,7 +12,7 @@ export const Hero = () => {
                 Reach out if you'd like to learn more!
             </p>
             <div className={styles.btnContainer}>
-                <a href='mailto:sarahlridings@gmail.com' className={styles.btn}>Email Me!</a>
+                <a href="mailto:sarahlridings@gmail.com" className={styles.btn}>Email Me!</a>
                 <a href="../../assets/hero/Sarah_Paterson-UIUX_Designer-Graphic_Designer.pdf" download="Sarah_Paterson_Resume" className={styles.btn}>Download My CV</a>
             </div>
         </div>
