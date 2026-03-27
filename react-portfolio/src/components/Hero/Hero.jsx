@@ -13,7 +13,7 @@ export const Hero = () => {
             </p>
             <div className={styles.btnContainer}>
                 <a href='mailto:sarahlridings@gmail.com' className={styles.btn}>Email Me!</a>
-                <a href="../../assets/hero/Sarah_Paterson-UIUX_Designer-Graphic_Designer.pdf" download="Sarah_Paterson_CV" className={styles.btn}>Download My CV</a>
+                <a href="../../assets/hero/Sarah_Paterson-UIUX_Designer-Graphic_Designer.pdf" download="Sarah_Paterson_Resume" className={styles.btn}>Download My CV</a>
             </div>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg} />
